@@ -6,11 +6,11 @@ import DesktopLayout from "./DesktopLayout";
 const App = () => {
 
 	const isDesktop = useMediaQuery({
-		query: "(min-width: 1001px)",
+		query: "(min-width: 1151px)",
 	})
 
   	const isMobile = useMediaQuery({
-    	query: "(max-width: 1000px)",
+    	query: "(max-width: 1150px)",
   	})
 
 	return (
