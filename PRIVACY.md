@@ -21,6 +21,9 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
 
+In accordance with Google Play user's data policy for account deletion, we provide in-app links for account deletion and its associated data.
+
+
 **Cookies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
@@ -58,6 +61,6 @@ This policy is effective as of 2023-03-31
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at AvatarsAI.official@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Avatars.AI.Chat@gmail.com.
 
 This privacy policy page was created at [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)

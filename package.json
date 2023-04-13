@@ -1,0 +1,32 @@
+{
+  "name": "AVATARS-AI",
+  "private": true,
+  "description": "AVATARS-AI Official Website",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.14",
+    "gatsby": "^5.7.0",
+    "gatsby-plugin-html-attributes": "^1.0.5",
+    "gatsby-plugin-manifest": "^5.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-responsive": "^9.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binaryshrey/Avatars-AI"
+  },
+  "bugs": {
+    "url": "https://github.com/binaryshrey/Avatars-AI/issues"
+  }
+}
