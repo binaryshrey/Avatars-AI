@@ -1,17 +1,18 @@
 import React from "react";
+import { Link } from "gatsby";
 import db from "../data/db.json";
 
 
 const Footer = () => {
 	return (
 		<>
-			<div style={{ marginTop: "12rem", textAlign: "center", marginBottom: "2rem" }}>
-				<a href={db.privacy} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem"}}>
+			<div style={{ marginTop: "16rem", textAlign: "center", marginBottom: "4rem" }}>
+				<Link to="/privacy" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem"}}>
           			Privacy
-        		</a>
-				<a href={db.terms} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem", marginLeft: "2rem"}}>
+        		</Link>
+				<Link to="/terms" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem", marginLeft: "2rem"}}>
           			Terms
-        		</a>
+        		</Link>
 				<a href={db.contact} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginLeft: "2rem" }}>
           			Contact
         		</a>
