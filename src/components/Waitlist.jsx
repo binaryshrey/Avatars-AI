@@ -57,7 +57,7 @@ const Waitlist = ({handleClose}) => {
                             sx={{ ml: 1, mr:1, flex: 1 }}
                             placeholder="Your email here"
                             inputProps={{ 'aria-label': 'search google maps' }}
-                        />
+                        /> 
                         <Button sx={{background:"#000", color:'#b4a7d6'}} onClick={handleClose}>Notify Me</Button>    
                     </Paper>
                 </a>
