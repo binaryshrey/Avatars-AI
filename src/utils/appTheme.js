@@ -8,7 +8,10 @@ const darkTheme = createTheme({
     },
     typography: {
     "fontFamily": `"Helvetica Neue", "Roboto", "sans-serif"`
-  }
+  },
+  secondary: {
+      main: "#ffffff",
+    },
   },
 })
 
