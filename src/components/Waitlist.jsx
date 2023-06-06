@@ -28,7 +28,7 @@ const Waitlist = ({handleClose}) => {
 				backgroundSize:'500% auto',
 				animation: `${animated_text} 1.5s ease-in-out infinite alternate;`
 			}}>
-				Interested in iOS ?
+				Interested in iOS app?
 			</Typography>
             <Typography variant="caption" component="div" sx={{ textAlign:'center' , marginTop:'3rem'}} >
 				Get an email notification as soon as
@@ -48,17 +48,19 @@ const Waitlist = ({handleClose}) => {
         
 
             <div style={{textAlign:'center', margin:'3rem'}}>
-                <Paper
-                    component="form"
-                    sx={{ p: '4px', display: 'flex', justifyContent:"space-evenly" , textAlign:'center'}}>
-                
-                    <InputBase
-                        sx={{ ml: 1, mr:1, flex: 1 }}
-                        placeholder="Your email here"
-                        inputProps={{ 'aria-label': 'search google maps' }}
-                    />
-                    <Button sx={{background:"#000", color:'#b4a7d6'}} onClick={handleClose}>Notify Me</Button>    
-                </Paper>
+                <a href="https://forms.fillout.com/t/qD4BtaAp1Rus" target="_blank" rel="noopener noreferrer" style={{textDecoration : "none"}}>
+                    <Paper
+                        component="form"
+                        sx={{ p: '4px', display: 'flex', justifyContent:"space-evenly" , textAlign:'center'}}>
+                    
+                        <InputBase
+                            sx={{ ml: 1, mr:1, flex: 1 }}
+                            placeholder="Your email here"
+                            inputProps={{ 'aria-label': 'search google maps' }}
+                        />
+                        <Button sx={{background:"#000", color:'#b4a7d6'}} onClick={handleClose}>Notify Me</Button>    
+                    </Paper>
+                </a>
             </div>
 
             <Typography variant="caption" component="div" sx={{ textAlign:'center', opacity:0.4 }} >
