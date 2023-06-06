@@ -70,9 +70,12 @@ const HeaderMob = () => {
 					{db.appName}
 				</Typography> */}
 				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" , marginTop:'0.5rem'}} >
-					{db.description}
+					{db.description_mob}
 				</Typography>
 				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
+					{db.description_mob_extend}
+				</Typography>
+				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5",marginTop:'0.5rem' }} >
 					{db.descriptionNext}
 				</Typography>
 
