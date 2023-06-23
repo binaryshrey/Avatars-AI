@@ -6,7 +6,7 @@ import db from "../../data/db.json";
 const FooterMobile = () => {
 	return (
 		<>
-			<div style={{ marginTop: "16rem", textAlign: "center", marginBottom: "4rem" }}>
+			<div style={{ marginTop: "14rem", textAlign: "center", marginBottom: "4rem" }}>
 				<Link to="/privacy" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "0.4rem"}}>
           			Privacy
         		</Link>

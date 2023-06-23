@@ -1,15 +1,16 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Container from "@mui/material/Container";
+import PHBanner from "./PHBanner";
 
 const Desktoplayout = () => {
 	return (
 		<>
-			<Container maxWidth="xl">
+			<div>
+				<PHBanner/>
 				<Header />
 				<Footer/>
-			</Container>
+			</div>
 		</>
 	);
 };

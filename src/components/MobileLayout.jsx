@@ -1,16 +1,18 @@
 import React from "react";
 import HeaderMob from "./mobile/HeaderMob";
-import Container from "@mui/material/Container";
 import FooterMobile from "./mobile/FooterMobile";
+import PHBannerMobile from "./mobile/PHBannerMobile";
+
 
 
 const MobileLayout = () => {
 	return (
 		<>
-			<Container maxWidth="xl">
+			<div>
+				<PHBannerMobile/>
 				<HeaderMob />
 				<FooterMobile/>
-			</Container>
+			</div>
 		</>
 	);
 };
