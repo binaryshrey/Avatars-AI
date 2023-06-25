@@ -13,7 +13,10 @@ const Footer = () => {
 				<Link to="/terms" target="_blank" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem", marginLeft: "2rem"}}>
           			Terms
         		</Link>
-				<a href={db.contact} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginLeft: "2rem" }}>
+				<a href={db.twitter} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5", marginRight: "2rem", marginLeft: "2rem" }}>
+          			Twitter
+        		</a>
+				<a href={db.contact} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#ffffff", opacity: "0.5",  marginLeft: "2rem" }}>
           			Contact
         		</a>
 			</div>

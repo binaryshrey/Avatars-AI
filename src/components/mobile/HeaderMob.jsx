@@ -51,10 +51,16 @@ const HeaderMob = () => {
 	return (
 		<>
 			<Box sx={{ textAlign: "center" }}>
+				<div style={{alignItems:"center", display:"flex",justifyContent:"center", marginTop:'2rem'}}>
+					<a href="https://www.producthunt.com/posts/avatars-ai?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-avatars&#0045;ai" target="_blank" rel="noreferrer">
+						<img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=401032&theme=dark&period=daily" alt="Avatars&#0032;AI - Personalised&#0032;AI&#0032;chat&#0032;companion&#0032;&#0045;&#0032;powered&#0032;by&#0032;GPT&#0045;4&#0032;&#0038;&#0032;Bard&#0032;AI | Product Hunt" style={{width: "200px", height: "43px"}} width="200" height="43" />
+					</a>
+            	</div>
 				<Box sx={{  height: "60vh" }}>
 					<img alt="header" src="mobile_header.svg" height="100%"  />
 				</Box>
-				<Typography variant="h4" component="div" sx={{ flexGrow: 1, marginTop: "4rem", fontWeight: "500" ,
+				
+				<Typography variant="h4" component="div" sx={{ flexGrow: 1, marginTop: "2rem", fontWeight: "500" ,
 						backgroundImage: `linear-gradient(to left, #ed8936, #ed64a6)`,
 						WebkitBackgroundClip: "text",
 						BackgroundClip: "text",
