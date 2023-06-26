@@ -19,7 +19,7 @@ Download the app now :
 
 <br/>
    
-## Web
+## ProductHunt
 
 <br/>
 
