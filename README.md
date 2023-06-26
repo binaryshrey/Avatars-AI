@@ -23,7 +23,7 @@ Download the app now :
 
 <br/>
 
-![Web](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/web-display.png)
+![Web](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/product_hunt.png)
 
 <br/>
 
