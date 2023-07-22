@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import db from "../data/db.json";
 import Typography from "@mui/material/Typography";
 
@@ -48,6 +49,24 @@ const PrivacyContent = () => {
                 </Typography>
 
 
+                <Typography variant="body2" component="div" sx={{marginTop:'1rem', fontWeight:'bold'}}>
+                            <br/><br/>Google Play User Data Policy
+                        </Typography>
+                        <Typography variant="body2" component="div" sx={{ opacity:"0.8"}}>
+                            In accordance with Google Play user's data policy for account deletion requirement, we provide user(s) with  
+                            <Link to="/account" target="_blank" style={{ textDecoration: "underline", color: "#ffffff", opacity: "0.8"}}> this option </Link> 
+                            to request the deletion of their Pokédex account and it's associated data. We will process your account deletion and it's associated data request within 24-48 hours after confirmation over the provided email-id.
+                        </Typography>
+
+                        <Typography variant="body2" component="div" sx={{marginTop:'1rem', fontWeight:'bold'}}>
+                            <br/><br/>Cookies and Other Technologies
+                        </Typography>
+                        <Typography variant="body2" component="div" sx={{ opacity:"0.8"}}>
+                            Our website, services, apps and email communications may use “cookies” and other technologies.
+                            We use the information we collect in this manner to better understand our user's interaction with our website and to optimize the user experience. You can disable cookies in your browser settings, but please note that certain features on our website may not be available as a result.
+                            We use this information to help us determine interest in particular topics and improve the effectiveness of our communications, and to reduce or eliminate messages sent to customers.
+                            We use this information in anonymized form for statistical analysis, to administer our site, and to improve our product and services, without directly associating this data with individual users.
+                        </Typography>
 
 
                 <Typography variant="body2" component="div" sx={{marginTop:'1rem'}}>
