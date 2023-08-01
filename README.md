@@ -120,6 +120,12 @@ The data Layer consists of repositories, which include business logic, such as q
 
 <br/>
 
+## Find this repository useful? :heart:
+Support it by joining [stargazers](https://github.com/binaryshrey/Avatars-AI/stargazers) for this repository. :star: <br>
+Also, [submit an issue](https://github.com/binaryshrey/Avatars-AI/issues) on GitHub for my any bugs or to request new features!
+
+<br/>
+
 ## Website Development setup
 
 ```
