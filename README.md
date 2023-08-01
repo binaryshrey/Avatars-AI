@@ -51,7 +51,6 @@ Now stay upbeat amidst all your friendly AI chat companions!
   - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) : Jetpack DataStore is a data storage solution that allows you to store key-value pairs or typed objects with protocol buffers.
   - [Firebase](https://firebase.google.com/) : Firebase is a set of backend cloud computing services and application development platforms provided by Google.
   - [Flows](https://developer.android.com/kotlin/flow) : In coroutines, a flow is a type that can emit multiple values sequentially, as opposed to suspend functions that return only a single value.
-  - [Gatsby](https://www.gatsbyjs.com/) : Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
   - [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   - [GlideToVectorYou](https://github.com/corouteam/GlideToVectorYou) : Load SVGs in Android with Glide.
   - [In App Reviews](https://developer.android.com/guide/playcore/in-app-review) : The Google Play In-App Review API that prompts users to submit Play Store ratings and reviews without the inconvenience of leaving your app or game.
@@ -70,10 +69,9 @@ Now stay upbeat amidst all your friendly AI chat companions!
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) : Stores UI-related data that isn't destroyed on UI changes. 
 
 - [Adapty](https://adapty.io/) : The all-in-one service for in-app subscriptions.
+- [Gatsby](https://www.gatsbyjs.com/) : Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 - [FastAPI](https://fastapi.tiangolo.com/) : FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
 - [Figma](https://figma.com/) : Figma is a vector graphics editor and prototyping tool which is primarily web-based.
-
-  
 - [Material Components for Android](https://github.com/material-components/material-components-android) : Modular and customizable Material Design UI components for Android.
 - [Netlify](https://www.netlify.com/) : Netlify is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
 - [PlanetScale](https://planetscale.com/) : PlanetScale is the world's most advanced serverless MySQL platform.
