@@ -40,7 +40,7 @@ Now stay upbeat amidst all your friendly AI chat companions!
 
 ## Built With 🛠
 
-![Stack](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/stack.png)
+![Stack](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/stack.png)
 
 - [Kotlin](https://kotlinlang.org/) - Official programming language for Android development.
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
@@ -83,7 +83,7 @@ Now stay upbeat amidst all your friendly AI chat companions!
 ## Architecture
 
 **Avatars AI** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
-![architecture](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/mvvm.png)
+![architecture](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/mvvm.png)
 
 **Avatars AI** was built with [Guide to app architecture](https://developer.android.com/topic/architecture), so it would be a great sample to show how the architecture works in real-world projects.
 
