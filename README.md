@@ -50,6 +50,8 @@ Now stay upbeat amidst all your friendly AI chat companions!
   - [DataBinding](https://developer.android.com/topic/libraries/data-binding) : The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
   - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) : Jetpack DataStore is a data storage solution that allows you to store key-value pairs or typed objects with protocol buffers.
   - [Firebase](https://firebase.google.com/) : Firebase is a set of backend cloud computing services and application development platforms provided by Google.
+  - [Flows](https://developer.android.com/kotlin/flow) : In coroutines, a flow is a type that can emit multiple values sequentially, as opposed to suspend functions that return only a single value.
+  - [Gatsby](https://www.gatsbyjs.com/) : Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
   - [Glide](https://github.com/bumptech/glide) : An image loading and caching library for Android focused on smooth scrolling.
   - [GlideToVectorYou](https://github.com/corouteam/GlideToVectorYou) : Load SVGs in Android with Glide.
   - [In App Reviews](https://developer.android.com/guide/playcore/in-app-review) : The Google Play In-App Review API that prompts users to submit Play Store ratings and reviews without the inconvenience of leaving your app or game.
