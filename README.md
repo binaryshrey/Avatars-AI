@@ -15,7 +15,8 @@ Introducing ΛVΛTΛRS ΛI 🚀 - Your Ultimate AI Chat Companion app powered by
 <br/><br/>
 Now stay upbeat amidst all your friendly AI chat companions!
 <br/><br/>
-   <a href='https://play.google.com/store/apps/details?id=chat.avatars.ai&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a>
+   <a href='https://play.google.com/store/apps/details?id=chat.avatars.ai&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="400"/></a><br/>
+  <a href='https://forms.fillout.com/t/qD4BtaAp1Rus'><img alt='Join Waitlist @App-Store' src='https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/app-store.png' width="350"/></a>
 </p>
 
 <br/>
