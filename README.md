@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">  
-Introducing ΛVΛTΛRS ΛI 🚀 - Your Ultimate AI Chat Companion app powered by ChatGPT, GPT-4 and Bard AI, that comes with 50+ hand-crafted AI chat avatars : each with their own unique personality & pre-defined prompt roles that covers 10+ different categories - ranging from entertainment, sports, travel to tech, education, productivity and more, packed with trending news anf information from each AI Avatar's respective domain
+Introducing ΛVΛTΛRS ΛI 🚀 - Your Ultimate AI Chat Companion app powered by OpenAI's GPT-3 / ChatGPT-3.5 Turbo / GPT-4, Google's Bard-AI, Pygmalion's 6B model and StabilityAI's Stable-Diffusion models, that comes with 50+ hand-crafted AI chat avatars : each with their own unique personality & pre-defined prompt roles that covers 10+ different categories - ranging from entertainment, sports, travel to tech, education, productivity and more, packed with trending news anf information from each AI Avatar's respective domain
 <br/><br/>
 Now stay upbeat amidst all your friendly AI chat companions!
 <br/><br/>
