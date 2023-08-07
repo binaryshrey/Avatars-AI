@@ -27,7 +27,7 @@ Now stay upbeat amidst all your friendly AI chat companions!
 
 <br/>
 
-![App Features](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/features.png)
+![App Features](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/assets/features.webp)
 
 <br/>
    
