@@ -4,10 +4,10 @@
     "description" : "Your Personalised AI Chat Companion With 50+ Avatars Over 10+ Categories",
     "description_mob": "Your Ultimate Personalised AI Chat Companion",
     "description_mob_extend": "With 50+ Avatars Over 10+ Categories",
-    "descriptionNext" : "Powered by ChatGPT, GPT-4 and Bard AI",
+    "descriptionNext" : "Powered by OpenAI's GPT-3 / ChatGPT-3.5 Turbo / GPT-4, Google's Bard-AI, Pygmalion's 6B & StabilityAI's Stable-Diffusion models",
     "privacy" : "https://github.com/binaryshrey/Avatars-AI/blob/main/PRIVACY.md",
     "terms": "https://github.com/binaryshrey/Avatars-AI/blob/main/TERMS.md",
     "contact": "mailto:Avatars.AI.Chat@gmail.com",
     "phLink": "https://www.producthunt.com/posts/avatars-ai",
-    "twitter": "https://twitter.com/AvatarsAI_Chat"
+    "twitter": "https://twitter.com/GetAvatarsAI"
 }

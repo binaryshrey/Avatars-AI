@@ -7,6 +7,8 @@ import Typography from "@mui/material/Typography";
 import Modal from '@mui/material/Modal';
 import Waitlist from "../Waitlist";
 import { keyframes } from '@mui/system'
+import Avatar from '@mui/material/Avatar';
+import AvatarGroup from '@mui/material/AvatarGroup';
 
 const animated_text = keyframes`
 	0% {
@@ -37,7 +39,7 @@ const HeaderMob = () => {
 
 	const AppStoreIcon = (
 		<Icon sx={{ width: "100%", height: "100%", marginTop: "6px", paddingTop:"4px", paddingBottom:"3px"}}>
-			<img alt="play_store" src="apple.svg" height={24} width={24}/>
+			<img alt="app_store" src="apple.svg" height={24} width={24}/>
 		</Icon>
 	);
 
@@ -75,16 +77,42 @@ const HeaderMob = () => {
 				{/* <Typography variant="h4" component="div" sx={{ flexGrow: 1, marginTop: "4rem", fontWeight: "500"}} >
 					{db.appName}
 				</Typography> */}
-				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" , marginTop:'0.5rem'}} >
+				<div style={{marginLeft:'0.5rem',marginRight:'0.5rem'}}>
+					<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" , marginTop:'0.5rem'}} >
 					{db.description_mob}
 				</Typography>
 				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
 					{db.description_mob_extend}
 				</Typography>
-				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5",marginTop:'0.5rem' }} >
+				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5",marginTop:'0.5rem', marginLeft:'1rem',  marginRight:'1rem' }} >
 					{db.descriptionNext}
 				</Typography>
 
+				</div>
+				
+
+				<div style={{display:'flex', justifyContent:'center', marginTop:'3rem'}}>
+					<AvatarGroup max={5}>
+						<Avatar alt="Remy" src="1.webp" sx={{ width: 32, height: 32 }} />
+						<Avatar alt="Travis" src="2.webp" sx={{ width: 32, height: 32 }}/>
+						<Avatar alt="Cindy" src="3.webp" sx={{ width: 32, height: 32 }}/>
+						<Avatar alt="Walker" src="4.webp" sx={{ width: 32, height: 32 }}/>
+						<Avatar alt="Alice" src="5.webp" sx={{ width: 32, height: 32 }} />
+					</AvatarGroup>
+					<div style={{marginLeft:'1rem'}}>
+							<div style={{display:'flex'}}>
+							<img alt="star" src="star.svg" />
+							<img alt="star" src="star.svg"   />
+							<img alt="star" src="star.svg" />
+							<img alt="star" src="star.svg"  />
+							<img alt="star" src="star.svg" />
+						</div>
+						<Typography variant="caption" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
+							Loved by 2000+ users
+						</Typography>
+					</div>
+				</div>
+					
 				<a href={db.appLink} target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#000000"}}>
           			<Button sx={{ textTransform: "none", fontFamily: `"Helvetica Neue", "Roboto", "sans-serif"`, marginTop: "6rem", background: "#FFFFFF",
 						":hover": { bgcolor: "#FFFFFF", color: "#000000",boxShadow: "rgba(255, 255, 255, 0.21) 0px 0.755195px 3.77597px -0.75px, rgba(255, 255, 255, 0.204) 0px 1.93034px 9.65168px -1.5px, rgba(255, 255, 255, 0.192) 0px 3.86188px 19.3094px -2.25px, rgba(255, 255, 255, 0.173) 0px 7.32867px 36.6434px -3px, rgba(255, 255, 255, 0.13) 0px 14.554px 72.77px -3.75px, rgba(255, 255, 255, 0.024) 0px 32px 160px -4.5px, rgba(255, 255, 255, 0.16) 0px 16px 180px 0px"},
