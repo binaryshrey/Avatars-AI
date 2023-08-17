@@ -79,35 +79,34 @@ const HeaderMob = () => {
 				</Typography> */}
 				<div style={{marginLeft:'0.5rem',marginRight:'0.5rem'}}>
 					<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" , marginTop:'0.5rem'}} >
-					{db.description_mob}
-				</Typography>
-				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
-					{db.description_mob_extend}
-				</Typography>
-				<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5",marginTop:'0.5rem', marginLeft:'1rem',  marginRight:'1rem' }} >
-					{db.descriptionNext}
-				</Typography>
-
+						{db.description_mob}
+					</Typography>
+					<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
+						{db.description_mob_extend}
+					</Typography>
+					<Typography variant="body2" component="div" sx={{ flexGrow: 1, opacity: "0.5",marginTop:'0.5rem', marginLeft:'1rem',  marginRight:'1rem' }} >
+						{db.descriptionNext}
+					</Typography>
 				</div>
 				
 
-				<div style={{display:'flex', justifyContent:'center', marginTop:'3rem'}}>
+				<div style={{display:'flex', justifyContent:'center', marginTop:'3rem', alignItems:'center'}}>
 					<AvatarGroup max={5}>
-						<Avatar alt="Remy" src="1.webp" sx={{ width: 32, height: 32 }} />
-						<Avatar alt="Travis" src="2.webp" sx={{ width: 32, height: 32 }}/>
-						<Avatar alt="Cindy" src="3.webp" sx={{ width: 32, height: 32 }}/>
-						<Avatar alt="Walker" src="4.webp" sx={{ width: 32, height: 32 }}/>
-						<Avatar alt="Alice" src="5.webp" sx={{ width: 32, height: 32 }} />
+						<Avatar alt="Remy" src="1.webp" sx={{ width: 36, height: 36 }} />
+						<Avatar alt="Travis" src="2.webp" sx={{ width: 36, height: 36 }}/>
+						<Avatar alt="Cindy" src="3.webp" sx={{ width: 36, height: 36 }}/>
+						<Avatar alt="Walker" src="4.webp" sx={{ width: 36, height: 36 }}/>
+						<Avatar alt="Alice" src="5.webp" sx={{ width: 36, height: 36 }} />
 					</AvatarGroup>
 					<div style={{marginLeft:'1rem'}}>
-							<div style={{display:'flex'}}>
-							<img alt="star" src="star.svg" />
-							<img alt="star" src="star.svg"   />
-							<img alt="star" src="star.svg" />
-							<img alt="star" src="star.svg"  />
-							<img alt="star" src="star.svg" />
+						<div style={{display:'flex'}}>
+							<div data-sal="fade" data-sal-delay="100" data-sal-easing="ease"><img alt="star" src="star.svg" /></div>
+							<div data-sal="fade" data-sal-delay="200" data-sal-easing="ease"><img alt="star" src="star.svg" /></div>
+							<div data-sal="fade" data-sal-delay="300" data-sal-easing="ease"><img alt="star" src="star.svg" /></div>
+							<div data-sal="fade" data-sal-delay="400" data-sal-easing="ease"><img alt="star" src="star.svg" /></div>
+							<div data-sal="fade" data-sal-delay="500" data-sal-easing="ease"><img alt="star" src="star.svg" /></div>
 						</div>
-						<Typography variant="caption" component="div" sx={{ flexGrow: 1, opacity: "0.5" }} >
+						<Typography variant="caption" component="div" sx={{ flexGrow: 1, opacity: "0.5", marginLeft:'0.1rem' }} >
 							Loved by 2000+ users
 						</Typography>
 					</div>
