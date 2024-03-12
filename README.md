@@ -31,11 +31,11 @@ Now stay upbeat amidst all your friendly AI chat companions!
 
 <br/>
    
-## ProductHunt
+## ProductHunt - YouTube Preview
 
 <br/>
 
-![ProductHunt](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/product_hunt.png)
+[![ProductHunt](https://raw.githubusercontent.com/binaryshrey/Avatars-AI/main/static/product_hunt.png)](https://www.youtube.com/watch?v=EaUCxeDgdnE)
 
 <br/>
 
