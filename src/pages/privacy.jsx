@@ -1,11 +1,9 @@
-import * as React from "react"
-import { SeoConfig } from "../components/seo"
-import PrivacyContainer from "../components/PrivacyContainer"
+import * as React from "react";
+import { SeoConfig } from "../components/Seo";
+import PrivacyContainer from "../components/PrivacyContainer";
 
 export default function Privacy() {
-  return <PrivacyContainer/>
+	return <PrivacyContainer />;
 }
 
-export const Head = () => (
-  <SeoConfig />
-)
+export const Head = () => <SeoConfig />;

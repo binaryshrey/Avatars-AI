@@ -1,11 +1,9 @@
-import * as React from "react"
-import { SeoConfig } from "../components/seo"
-import Container from "../components/Container"
+import * as React from "react";
+import { SeoConfig } from "../components/Seo";
+import Container from "../components/Container";
 
 export default function Home() {
-  return <Container/>
+	return <Container />;
 }
 
-export const Head = () => (
-  <SeoConfig />
-)
+export const Head = () => <SeoConfig />;

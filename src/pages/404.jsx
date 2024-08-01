@@ -1,18 +1,14 @@
 import React from "react";
-import { SeoConfig } from "../components/seo"
+import { SeoConfig } from "../components/Seo";
 
 const NotFound = () => {
-    return(
-    <div style={{ textAlign:'center'}}>
-        <div >
-            404
-        </div>
-    </div>
-    )
-}
+	return (
+		<div style={{ textAlign: "center" }}>
+			<div>404</div>
+		</div>
+	);
+};
 
-export default NotFound
+export default NotFound;
 
-export const Head = () => (
-  <SeoConfig title="404"/>
-)
+export const Head = () => <SeoConfig title="404" />;

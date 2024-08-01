@@ -1,20 +1,17 @@
-import * as React from "react"
+import * as React from "react";
 import darkTheme from "../utils/appTheme";
-import { SeoConfig } from "../components/seo"
+import { SeoConfig } from "../components/Seo";
 import CssBaseline from "@mui/material/CssBaseline";
 import { ThemeProvider } from "@mui/material/styles";
-import AccountDeletionRedirect from "../components/AccountDeletionRedirect"
+import AccountDeletionRedirect from "../components/AccountDeletionRedirect";
 
 export default function AccountDeletion() {
-  return (
-    <ThemeProvider theme={darkTheme}>
-      <CssBaseline />
-      <AccountDeletionRedirect/>
-    </ThemeProvider>
-  
-  )
+	return (
+		<ThemeProvider theme={darkTheme}>
+			<CssBaseline />
+			<AccountDeletionRedirect />
+		</ThemeProvider>
+	);
 }
 
-export const Head = () => (
-  <SeoConfig />
-)
+export const Head = () => <SeoConfig />;
